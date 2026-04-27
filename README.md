@@ -1,1 +1,0 @@
-# Lab-Component-Mangament
